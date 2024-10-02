@@ -1,0 +1,14 @@
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\nevesgc\source\repos\Listas\Listas\bin\Debug\net8.0\Listas.exe
+C:\Users\nevesgc\source\repos\Listas\Listas\bin\Debug\net8.0\Listas.deps.json
+C:\Users\nevesgc\source\repos\Listas\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+C:\Users\nevesgc\source\repos\Listas\Listas\bin\Debug\net8.0\Listas.dll
+C:\Users\nevesgc\source\repos\Listas\Listas\bin\Debug\net8.0\Listas.pdb
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\Listas.dll
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\refint\Listas.dll
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\Listas.pdb
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+C:\Users\nevesgc\source\repos\Listas\Listas\obj\Debug\net8.0\ref\Listas.dll
